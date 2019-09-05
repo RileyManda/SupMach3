@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "241290580597",
+    "firebase_url": "https://supmach3.firebaseio.com",
+    "project_id": "supmach3",
+    "storage_bucket": "supmach3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241290580597:android:6e5a9d42532f1c13c99e3c",
+        "android_client_info": {
+          "package_name": "in.munshig.supmach3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241290580597-iv2kqg1bg9qnr9kdvqf4hm3oq4ne0fnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.munshig.supmach3",
+            "certificate_hash": "b17f974ea0ddb5409b3123261661e6c824aa5a38"
+          }
+        },
+        {
+          "client_id": "241290580597-5k0jqh342nkpemdjh02b8oeve94s9k2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD965baymOGbszP15B5Et9zGnYsIUrAPkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241290580597-5k0jqh342nkpemdjh02b8oeve94s9k2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
